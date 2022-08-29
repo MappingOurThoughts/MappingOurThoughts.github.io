@@ -2,6 +2,13 @@ site_name: Mapping Docs
 site_url: https://docs.mappingourthoughts.org
 site_author: Antonio Turley
 
+# Repository
+repo_name: MappingOurThoughts/MappingOurThoughts.github.io
+repo_url: https://github.com/MappingOurThoughts/MappingOurThoughts.github.io
+
+# Copyright
+copyright: Copyright &copy; 2022 MappingOurThoughts
+
 # Configuration
 theme:
   name: material
