@@ -1,6 +1,6 @@
 site_name: Mapping Docs
 theme:
-  name: null
+  name: mkdocs
   custom_dir: mkdocs-material/material
 
   # 404 page
