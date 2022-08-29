@@ -2,8 +2,6 @@ site_name: Mapping Docs
 site_url: https://docs.mappingourthoughts.org
 site_author: Antonio Turley
 
-# Copyright
-copyright: Copyright &copy; 2022 MappingOurThoughts
 
 # Configuration
 theme:
