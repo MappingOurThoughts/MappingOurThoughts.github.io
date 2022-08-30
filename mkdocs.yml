@@ -1,5 +1,9 @@
 site_name: Mapping Docs
 
+# Repository
+repo_name: MappingOurThoughts
+repo_url: https://github.com/MappingOurThoughts
+
 # Copyright
 copyright: Copyright &copy; 2022 Mapping Our Thoughts
 
