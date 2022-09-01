@@ -1,1 +1,1 @@
-# MappingOurThoughts.github.io
+# Mapping Docs for Mapping Our Thoughts
